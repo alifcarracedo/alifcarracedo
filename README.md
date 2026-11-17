@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/alicia-fernandez-carracedo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:alifcarracedo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=1f6feb&label=VISITAS"/>
+<img src="https://komarev.com/ghpvc/?username=alifcarracedo&style=for-the-badge&color=1f6feb&label=VISITAS"/>
 
 </div>
 
