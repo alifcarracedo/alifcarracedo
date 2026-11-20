@@ -58,9 +58,6 @@ skills through real-world projects.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifcarracedo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alifcarracedo&theme=tokyo-night&hide_border=true" />
-</p>
 
 ## 🐍  My Contribution Snake
 
