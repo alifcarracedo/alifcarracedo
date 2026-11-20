@@ -64,8 +64,23 @@ skills through real-world projects.
 
 ## 🐍 Watch my contributions get eaten!
 
+<h2 align="center">🐍 My Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alifcarracedo/alifcarracedo/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/alifcarracedo/alifcarracedo/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/alifcarracedo/alifcarracedo/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/alifcarracedo/alifcarracedo/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ## 🚀 Featured Projects
