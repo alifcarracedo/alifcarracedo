@@ -62,9 +62,7 @@ skills through real-world projects.
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alifcarracedo&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🐍 Watch my contributions get eaten!
-
-<h2 align="center">🐍 My Contribution Snake</h2>
+## 🐍  My Contribution Snake
 
 <p align="center">
   <picture>
@@ -83,13 +81,6 @@ skills through real-world projects.
   </picture>
 </p>
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <i>More projects coming soon...</i>
-</p>
-
----
 
 ## ☕ Fun Fact
 
